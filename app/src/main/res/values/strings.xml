@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GameRules</string>
+    <string name="app_name" translatable="false">GameRules</string>
+    <string name="choose_sport">Choose the kind of sport</string>
 </resources>
